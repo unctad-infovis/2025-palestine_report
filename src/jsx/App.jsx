@@ -14,10 +14,10 @@ function App() {
           <div className="main_title_container">
             <img src="https://static.dwcdn.net/custom/themes/unctad-2024-rebrand/Blue%20arrow.svg" className="logo" alt="UN Trade and Development logo" width="44" height="44" />
             <div className="title">
-              <h3>TITLE</h3>
+              <h3>Gaza: Average night-time luminosity</h3>
             </div>
           </div>
-          <h4>Gaza: Average night-time luminosity</h4>
+          <h4>Gaza lost 73 percent of economic and human activity between October 7 2023 and May 22 2025</h4>
         </div>
       </div>
       <div className="images_container">
@@ -37,7 +37,7 @@ function App() {
         <br />
         <em>Note:</em>
         {' '}
-        Grids of 1 km2; brighter grids indicate more light emanated. Areas with yellow have more luminosity and areas with blue have less luminosity.
+        Grids of 1 km2; brighter grids indicate more light emanated. Areas with bright yellow have more luminosity and areas with dark blue have less luminosity.
         <br />
       </div>
     </div>
